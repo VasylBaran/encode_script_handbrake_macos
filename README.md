@@ -21,3 +21,4 @@ sudo chmod +x /file_path/encode_script.command
 
 Cheers! ;-)
 
+P.S. Linux version can be found here: https://github.com/VasylBaran/encode_script_linux
