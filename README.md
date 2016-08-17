@@ -16,7 +16,7 @@ Supported file formats: .mp4, .avi, .mov, .mkv
 More on encoding settings of HandbrakeCLI:
 https://trac.handbrake.fr/wiki/CLIGuide 
 
-Note: you might need to make this command-files executable before using it. It can be done with following:
+Note: you might need to make this command-file executable before using it. It can be done with following:
 sudo chmod +x /file_path/encode_script.command
 
 Cheers! ;-)
