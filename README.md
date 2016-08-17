@@ -11,3 +11,6 @@ You can change your encoding settings by editing line 26:
 
 Supported file formats: .mp4, .avi, .mov, .mkv
 
+More on encoding settings of HandbrakeCLI:
+https://trac.handbrake.fr/wiki/CLIGuide 
+
