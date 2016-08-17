@@ -22,7 +22,7 @@ then
 fi
 }
 
-FILES="/Users/samael/Documents/Watch/*"
+FILES="/Users/usr/Documents/Watch/*"
 PRESET="-e x264 -q 20 --x264-preset veryfast"
 
 #//////////////////////////////////////////
@@ -151,11 +151,11 @@ then
 fi
 
 done
-if [ "$(ls -A /Users/samael/Documents/Watch/)" ]; then
+if [ "$(ls -A /Users/usr/Documents/Watch/)" ]; then
 main
 fi
 }
-if [ "$(ls -A /Users/samael/Documents/Watch/)" ]; then
+if [ "$(ls -A /Users/usr/Documents/Watch/)" ]; then
 main
 fi
 exit
