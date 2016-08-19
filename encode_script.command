@@ -151,9 +151,9 @@ then
 fi
 
 done
-if [ "$(ls -A /Users/usr/Documents/Watch/)" ]; then
-main
-fi
+#if [ "$(ls -A /Users/usr/Documents/Watch/)" ]; then
+#main
+#fi
 }
 if [ "$(ls -A /Users/usr/Documents/Watch/)" ]; then
 main
